@@ -1,3 +1,6 @@
+Tong Van Quynh - 22146047
+Nguyen Hai Hoang - 20146004
+Le Thi Minh Hien - 21146455
 # TCS34725 Linux Device Driver
 This project provides a **Linux kernel module** for the **TCS34725 RGB color sensor**, which communicates via the **I2C bus**. The driver exposes a character device interface (`/dev/tcs34725`) that allows user-space applications to retrieve **Red**, **Green**, **Blue**, and **Clear** channel data using **ioctl commands**.
 ## Hardware Requirements
